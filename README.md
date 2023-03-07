@@ -29,6 +29,6 @@
 ### Inspiration:
 - The IPL dataset can be used for a variety of purposes, including analyzing team and player performances, identifying trends and patterns, and predicting future match outcomes. The dataset can also be used to gain insights into the strategies employed by winning teams, the factors that contribute to successful performances, and the impact of different playing conditions. Overall, the IPL dataset is a valuable resource for cricket enthusiasts, data scientists, and anyone interested in sports analytics.
 
-Social Links: 
+### Social Links: 
 - Kaggle - https://www.kaggle.com/rajugc
 - Linkedin - https://www.linkedin.com/in/chidambara-raju-g-22a152233/
