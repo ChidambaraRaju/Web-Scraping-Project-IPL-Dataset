@@ -1,5 +1,7 @@
 # Web-Scraping-Project-IPL-Dataset(2008 - 2022)
 
+## This dataset contains IPL match results and stats from 2008 - 2022
+
 ### Context:
 - The Indian Premier League (IPL) is a professional Twenty20 cricket league that was founded in 2008 by the Board of Control for Cricket in India (BCCI). The league features eight teams representing different cities in India, with each team comprising a mix of local and international players. The IPL has become one of the most popular and lucrative cricket leagues in the world, with millions of fans tuning in to watch matches every year.
 
